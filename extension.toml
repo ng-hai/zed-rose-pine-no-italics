@@ -3,5 +3,5 @@ name = "Rosé Pine (No Italics)"
 version = "0.0.1"
 schema_version = 1
 authors = ["Hai Nguyen <nghai.dev@gmail.com>"]
-description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist — code without italics."
+description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist — a custom italic-free syntax design on the Rosé Pine palette."
 repository = "https://github.com/ng-hai/zed-rose-pine-no-italics"
