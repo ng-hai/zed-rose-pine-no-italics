@@ -1,9 +1,9 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine (No Italics) for Zed</h2>
+    <h2 align="center">Rosé Pine Recast for Zed</h2>
 </p>
 
-<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist — a custom italic-free syntax design on the Rosé Pine palette.</p>
+<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist — the VSCode Rosé Pine syntax mapping, recast for Zed without italics.</p>
 
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">
@@ -13,38 +13,38 @@
 
 ## About
 
-This is **not** simply the official theme with italics switched off. It keeps the canonical Rosé Pine palette unchanged, but reworks how those colors map to syntax — reassigning over 20 token scopes, defining several the official theme doesn't, and removing italics from code (retained only on markdown emphasis and AI ghost text). The **Rosé Pine** name credits the palette; the syntax design is its own.
+This is **not** the official Zed theme with italics switched off. It ports the syntax token-to-color mapping from the [**VSCode** Rosé Pine](https://github.com/rose-pine/vscode) theme to Zed — which scopes colors differently from the official Zed port (over 20 token scopes remapped, several defined that the Zed port doesn't) — and removes italics from code (retained only on markdown emphasis and AI ghost text). The canonical Rosé Pine palette is unchanged: the **Rosé Pine** name credits the palette, and *Recast* marks the reworked syntax mapping.
 
-Because it's a different design rather than a toggle, it ships as a standalone theme alongside — not a replacement for — the official Rosé Pine.
+Because it's a different syntax design rather than a toggle, it ships as a standalone theme alongside — not a replacement for — the official Rosé Pine for Zed.
 
 ## Usage
 
-1. Install the **Rosé Pine (No Italics)** extension from Zed extensions
+1. Install the **Rosé Pine Recast** extension from Zed extensions
 2. Select your desired variant from the theme selection menu
 
 ## Variants
 
-- Rosé Pine
-- Rosé Pine Moon
-- Rosé Pine Dawn
+- Rosé Pine Recast
+- Rosé Pine Recast Moon
+- Rosé Pine Recast Dawn
 
 ## Gallery
 
-### Rosé Pine
+### Rosé Pine Recast
 
-![Rosé Pine editor preview](assets/rose-pine.png)
+![Rosé Pine Recast editor preview](assets/rose-pine.png)
 
-### Rosé Pine Moon
+### Rosé Pine Recast Moon
 
-![Rosé Pine Moon editor preview](assets/rose-pine-moon.png)
+![Rosé Pine Recast Moon editor preview](assets/rose-pine-moon.png)
 
-### Rosé Pine Dawn
+### Rosé Pine Recast Dawn
 
-![Rosé Pine Dawn editor preview](assets/rose-pine-dawn.png)
+![Rosé Pine Recast Dawn editor preview](assets/rose-pine-dawn.png)
 
 ## Credits
 
-Built on the canonical [Rosé Pine palette](https://rosepinetheme.com) and inspired by the official [Rosé Pine for Zed](https://github.com/rose-pine/zed) theme. The syntax-color mapping and italic removal are specific to this variant.
+Built on the canonical [Rosé Pine palette](https://rosepinetheme.com), with the syntax-color mapping ported from the [VSCode Rosé Pine](https://github.com/rose-pine/vscode) theme. Inspired by the official [Rosé Pine for Zed](https://github.com/rose-pine/zed) theme. The italic removal and any further tweaks are specific to this variant.
 
 ## License
 
