@@ -28,6 +28,24 @@ Because it's a different syntax design rather than a toggle, it ships as a stand
 - Rosé Pine Recast Moon
 - Rosé Pine Recast Dawn
 
+## Customizing
+
+This theme ships without italics by design. If you'd like italic comments, add a `theme_overrides` block to your Zed `settings.json` — it overrides the theme in place, no fork needed:
+
+```json
+{
+  "theme_overrides": {
+    "Rosé Pine Recast": {
+      "syntax": {
+        "comment": { "font_style": "italic" }
+      }
+    }
+  }
+}
+```
+
+`theme_overrides` targets one theme at a time — repeat the block for `Rosé Pine Recast Moon` and `Rosé Pine Recast Dawn` if you use those variants.
+
 ## Gallery
 
 ### Rosé Pine Recast
